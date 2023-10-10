@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @alexeigannon
-- 👀 I’m interested in theoretical neuroscience, mechanistic interpretation, and continental philosophy
+- 👋 Hi, I’m @alexeigannon:
+- 2023 Len Blavatnik Neuroscience Research Fellow at Fordham University
+- 👀 I’m interested in theoretical neuroscience and mechanistic interpretation
 - 🌱 I’m currently reading Anthropic's circuit series
 - 💞️ I’m looking to collaborate on mech interp research
 - 📫 Contact me at agannon5@fordham.edu
