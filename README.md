@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexeigannon:
-- 2023 Len Blavatnik Neuroscience Research Fellow at Fordham University
+- 2023 Blavatnik Research Fellow at Fordham University
 - 👀 I’m interested in theoretical neuroscience and mechanistic interpretation
 - 🌱 I’m currently reading Anthropic's circuit series
 - 💞️ I’m looking to collaborate on mech interp research
