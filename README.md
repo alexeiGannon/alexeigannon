@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexeigannon
-- 👀 I’m interested in theoretical neuroscience and mechanistic interpretation of Machine Learning Models
-- 🌱 I’m currently reading everything Anthropic is publishing
+- 👀 I’m interested in theoretical neuroscience, mechanistic interpretation, and continental philosophy
+- 🌱 I’m currently reading Anthropic's circuit series and Negarastani's Intelligence and Spirit
 - 💞️ I’m looking to collaborate on mech interp research
 - 📫 Contact me at agannon5@fordham.edu
 
